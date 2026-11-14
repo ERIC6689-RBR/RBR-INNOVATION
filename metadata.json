@@ -1,0 +1,8 @@
+{
+  "name": "RBR INNOVATION",
+  "description": "Sites de alta conversão com entrega no mesmo dia para empresas que querem aumentar o faturamento em todo o Brasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
